@@ -1,2 +1,3 @@
-# Pandhi_Ayush_Assignment1
-CTA200H Problem Set Submission (2019)
+# CTA200H Problem Set (2019)
+## Authors: Ayush Pandhi & Mathew Bub
+## Date: May 13, 2019
